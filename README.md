@@ -11,7 +11,7 @@ The project includes the following features:
 - Launching a desktop application and automating data entry tasks using UiPath's desktop automation capabilities
 - Handling common error scenarios, such as invalid data or network connectivity issues
 - Generating logs and reports to track the automation process and detect any issues that may arise
-- 
+
 <h3>Technologies and Tools</h3>
 The project uses the following technologies and tools:
 
